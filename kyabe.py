@@ -1,1 +1,1 @@
-print('f**king a github file')
+print('f**king a repository')
